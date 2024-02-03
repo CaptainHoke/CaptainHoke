@@ -1,16 +1,22 @@
-### Hi there 👋
+## <h1 align="center">My name is Nikolai Korobov</a>
 
-<!--
-**CaptainHoke/CaptainHoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">:construction: <b>Work in Progress</b> :construction:</p>
 
-Here are some ideas to get you started:
+As a Game Software Engineer, I have accrued 4+ years of experience, specializing in Render Programming for the first three years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm broadening my expertise by venturing into various aspects of web development with frontend being my main focus.
+
+### Core Skills
+- C++17 / Unreal Engine
+- Algorithms / DS
+
+### Secondary Skills
+- DirectX 11 / HLSL
+- Java (ask me about that one time I've been testing UE with JUnit)
+- SQL
+- CI/CD (setting up github actions for a monorepo was _fun_)
+- SOLID / DRY / KISS / Common Design Patterns
+
+### Exploring Now
+- Frontend Development: Typescript + React
+- Backend Development: Go / Typescript, it's hard to make a choice at the moment.
