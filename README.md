@@ -20,3 +20,11 @@ Currently, I'm broadening my expertise by venturing into various aspects of web 
 ### Exploring Now
 - Frontend Development: Typescript + React
 - Backend Development: Go / Typescript, it's hard to make a choice at the moment.
+
+<details>
+<summary>Some Stats</summary>
+
+#### LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/enkore?theme=wtf,nord&font=Cairo&ext=heatmap)
+
+</details>
