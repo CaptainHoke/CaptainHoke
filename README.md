@@ -2,7 +2,7 @@
 
 As a Game Software Engineer, I have accrued 4+ years of experience, specializing in Render Programming for the first three years.
 
-Currently, I'm broadening my expertise by venturing into various aspects of web development with frontend being my main focus.
+Currently, I'm broadening my expertise by venturing into various aspects of web development.
 
 ### Core Skills
 - C++17 · Unreal Engine
